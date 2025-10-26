@@ -10,6 +10,9 @@ Fokus utama pada praktikum kali ini adalah mengenal berbagai cara input dan outp
 Daftar File
 
 LatihanA.java	--> Membaca input dari keyboard menggunakan Scanner, lalu menjumlahkan dua angka yang dimasukkan pengguna.
+
 LatihanB.java	--> Membaca satu baris teks menggunakan BufferedReader dan menghitung jumlah katanya.
+
 LatihanC.java	--> Membaca isi file teks input.txt, menghitung frekuensi setiap kata, lalu menyimpannya ke file count.txt.
+
 LatihanD.java	--> Menyalin file biner (misalnya gambar .jpg) menggunakan FileInputStream dan FileOutputStream.
